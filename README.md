@@ -92,19 +92,16 @@ This repository includes:
 
 ## Linux / WSL / macOS
 
-```bash
 gcc pv_yield_estimator.c -o pv_yield_estimator
 
 # How to Run
 
-```bash
 ./pv_yield_estimator
 
 # Windows Executable
 
 A precompiled Windows executable is included in the repository for users who do not want to compile the program manually.
 
-```bash
 pv_yield_estimator.exe
 
 # Example Workflow
@@ -121,7 +118,7 @@ The user can:
 6. Enter Performance Ratio (PR)
 7. Receive estimated yearly PV yield and savings
 
-# Advanced Engineering Mode
+## Advanced Engineering Mode
 
 Includes additional engineering variables such as:
 
