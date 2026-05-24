@@ -88,21 +88,25 @@ This repository includes:
 
 ---
 
+
 # How to Compile
 
 ## Linux / WSL / macOS
 
 gcc pv_yield_estimator.c -o pv_yield_estimator
 
+
 # How to Run
 
 ./pv_yield_estimator
+
 
 # Windows Executable
 
 A precompiled Windows executable is included in the repository for users who do not want to compile the program manually.
 
 pv_yield_estimator.exe
+
 
 # Example Workflow
 
@@ -130,11 +134,13 @@ Includes additional engineering variables such as:
 - location comparison
 - currency conversion
 
+
 # Engineering Assumptions
 
 This software uses simplified but realistic engineering assumptions for educational purposes.
 
 The results are approximate estimations and should not replace professional photovoltaic system design or certified engineering studies.
+
 
 # Inclusiveness and Global Perspective
 
@@ -149,9 +155,11 @@ The software includes:
 
 The goal is to help make renewable energy knowledge more globally accessible and less regionally exclusive.
 
+
 # License
 
 This project is licensed under the MIT License.
+
 
 # Author
 
