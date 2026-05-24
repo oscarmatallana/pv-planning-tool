@@ -2,7 +2,7 @@
 
 An educational and accessible photovoltaic (PV) planning and yield estimation tool developed in C.
 
-This project was created to make solar energy planning more understandable, transparent, and inclusive for people around the world — regardless of technical background, country, or economic context.
+This project was created to make solar energy planning more understandable, transparent, and inclusive for people around the world, regardless of technical background, country, or economic context.
 
 Unlike many existing planning tools that focus primarily on Europe or the United States, this project includes solar irradiation references from multiple continents and supports multiple languages to encourage broader participation in the renewable energy transition.
 
@@ -19,7 +19,7 @@ Solar energy plays a critical role in:
 - improving energy access worldwide
 - supporting more resilient and sustainable societies
 
-Making solar planning tools more accessible helps democratize technical knowledge and empowers more people to participate in the energy transition — from students and homeowners to future engineers and communities around the world.
+Making solar planning tools more accessible helps democratize technical knowledge and empowers more people to participate in the energy transition, from students and homeowners to future engineers and communities around the world.
 
 ---
 
