@@ -133,9 +133,9 @@ Includes additional engineering variables such as:
 - roof orientation
 - roof type
 - shading level
-- system age
+- system quality
 - location comparison
-- currency conversion
+- currency flexibility
 
 
 
