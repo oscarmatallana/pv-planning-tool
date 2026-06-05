@@ -107,7 +107,7 @@ gcc pv_yield_estimator.c -o pv_yield_estimator
 
 A precompiled Windows executable is included in the repository for users who do not want to compile the program manually.
 
-pv_yield_estimator.exe
+PV_Yield_Estimator_v1.0.zip
 
 
 
