@@ -73,7 +73,7 @@ This repository includes:
 - Source code in C
 - MIT License
 - README documentation (multilingual in the `.zip` file)
-- Windows executable versions for each language (`.exe`) in the `.zip` file
+- Windows executable version for each language (`.exe`) in the `.zip` file
 - Educational engineering calculations
 - Multilingual terminal interface
 
