@@ -48,7 +48,7 @@ The program was designed to:
 - Quick estimation mode
 - Advanced engineering estimation mode
 - Input validation and error handling
-- Roof orientation and roof type factors
+- Roof orientation
 - Shading and system aging considerations
 - Performance Ratio (PR) modeling
 - Global solar irradiation reference values
@@ -72,8 +72,8 @@ This repository includes:
 
 - Source code in C
 - MIT License
-- README documentation
-- Windows executable version (`.exe`)
+- README documentation (multilingual in the `.zip` file)
+- Windows executable versions for each language (`.exe`) in the `.zip` file
 - Educational engineering calculations
 - Multilingual terminal interface
 
@@ -131,7 +131,6 @@ Includes additional engineering variables such as:
 
 - module dimensions
 - roof orientation
-- roof type
 - shading level
 - system quality
 - location comparison
